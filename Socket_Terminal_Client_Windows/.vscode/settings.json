@@ -39,6 +39,9 @@
         "xtr1common": "cpp",
         "xutility": "cpp",
         "string": "cpp",
-        "cctype": "cpp"
+        "cctype": "cpp",
+        "bit": "cpp",
+        "clocale": "cpp",
+        "ctime": "cpp"
     }
 }

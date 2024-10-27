@@ -1,0 +1,3 @@
+C:/Users/sini_/Desktop/Mighty_Projects/WxWidget_Server_CMAKE/Out/CMakeFiles/MyWxWidgetsServerApp.dir
+C:/Users/sini_/Desktop/Mighty_Projects/WxWidget_Server_CMAKE/Out/CMakeFiles/edit_cache.dir
+C:/Users/sini_/Desktop/Mighty_Projects/WxWidget_Server_CMAKE/Out/CMakeFiles/rebuild_cache.dir

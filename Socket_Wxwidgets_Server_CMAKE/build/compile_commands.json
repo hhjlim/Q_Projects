@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/sini_/Desktop/Q_Projects/WxWidget_Server_CMAKE/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/MyWxWidgetsServerApp.dir/includes_CXX.rsp -g -o CMakeFiles\\MyWxWidgetsServerApp.dir\\ServerMain.cpp.obj -c C:\\Users\\sini_\\Desktop\\Q_Projects\\WxWidget_Server_CMAKE\\ServerMain.cpp",
+  "file": "C:/Users/sini_/Desktop/Q_Projects/WxWidget_Server_CMAKE/ServerMain.cpp",
+  "output": "CMakeFiles/MyWxWidgetsServerApp.dir/ServerMain.cpp.obj"
+}
+]

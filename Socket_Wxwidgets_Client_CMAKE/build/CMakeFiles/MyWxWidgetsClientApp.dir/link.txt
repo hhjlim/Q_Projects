@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\MyWxWidgetsClientApp.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\MyWxWidgetsClientApp.dir/objects.a @CMakeFiles\MyWxWidgetsClientApp.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\MyWxWidgetsClientApp.dir/objects.a -Wl,--no-whole-archive -o MyWxWidgetsClientApp.exe -Wl,--out-implib,libMyWxWidgetsClientApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MyWxWidgetsClientApp.dir\linkLibs.rsp

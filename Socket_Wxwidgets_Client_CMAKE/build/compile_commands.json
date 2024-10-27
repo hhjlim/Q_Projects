@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/sini_/Desktop/Mighty_Projects/WxWidget_Client_CMAKE/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/MyWxWidgetsClientApp.dir/includes_CXX.rsp -g -o CMakeFiles\\MyWxWidgetsClientApp.dir\\wxSocket_Client.cpp.obj -c C:\\Users\\sini_\\Desktop\\Mighty_Projects\\WxWidget_Client_CMAKE\\wxSocket_Client.cpp",
+  "file": "C:/Users/sini_/Desktop/Mighty_Projects/WxWidget_Client_CMAKE/wxSocket_Client.cpp",
+  "output": "CMakeFiles/MyWxWidgetsClientApp.dir/wxSocket_Client.cpp.obj"
+}
+]
