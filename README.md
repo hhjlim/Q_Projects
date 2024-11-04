@@ -8,7 +8,7 @@ sudo apt update
 sudo apt upgrade  
 sudo reboot  
 
-
+https://gist.github.com/mixalbl4-127/4f5ab6744be6f98555f3e29f1cfc7050  
 sudo apt update  
 sudo apt install xfce4 xfce4-goodies 1.3g  
 sudo apt install tigervnc-standalone-server  
